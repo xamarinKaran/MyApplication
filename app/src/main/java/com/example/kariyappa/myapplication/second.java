@@ -11,6 +11,7 @@ import android.support.v7.app.AppCompatActivity;
 
 public class second extends AppCompatActivity {
 
+    int i=0;
     @Override
     protected void onRestart() {
         super.onRestart();
